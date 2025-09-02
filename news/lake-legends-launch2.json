@@ -1,0 +1,31 @@
+﻿{
+  "id": "lake-legends-launch2",
+  "title": {
+    "defaultText": "Welcome to Lake Legends: The Ultimate Fishing Adventure!",
+    "localizations": [
+      { "languageCode": "es", "text": "¡Bienvenido a Lake Legends: La aventura de pesca definitiva!" },
+      { "languageCode": "pt", "text": "Bem-vindo ao Lake Legends: A aventura de pesca definitiva!" },
+      { "languageCode": "sv", "text": "Välkommen till Lake Legends: Det ultimata fiskeäventyret!" }
+    ]
+  },
+  "description": {
+    "defaultText": "Embark on an epic fishing journey across breathtaking lakes, master your skills, and become a true Legend of the Lake!",
+    "localizations": [
+      { "languageCode": "es", "text": "¡Embárcate en un épico viaje de pesca a través de lagos impresionantes, domina tus habilidades y conviértete en una verdadera Leyenda del Lago!" },
+      { "languageCode": "pt", "text": "Embarque em uma jornada épica de pesca por lagos deslumbrantes, domine suas habilidades e torne-se uma verdadeira Lenda do Lago!" },
+      { "languageCode": "sv", "text": "Ge dig ut på en episk fiskeresa över fantastiska sjöar, bemästra dina färdigheter och bli en sann Sjölegend!" }
+    ]
+  },
+  "imageUrl": "",
+  "videoUrl": "https://www.youtube.com/watch?v=LqRgT4cCDSs",
+  "date": "2025-09-02",
+  "socials": {
+    "twitter": "https://x.com/BridgeGamesDev",
+    "bsky": "https://bsky.app/profile/bridgegamesstudio.bsky.social",
+    "instagram": "https://www.instagram.com/bridgegamesstudio_official/",
+    "discord": "https://discord.gg/yXDmATPzA4",
+    "website": "https://bridgegamesstudio.com",
+    "tiktok": "https://www.tiktok.com/@bridgegamesstudio",
+    "youtube": "https://www.youtube.com/@BridgeGamesStudio"
+  }
+}
