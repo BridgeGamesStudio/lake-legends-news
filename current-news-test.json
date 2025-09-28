@@ -6,6 +6,11 @@
       "id": "lake-legends-launch",
       "path": "news/lake-legends-launch.json",
       "priority": 1
+    },
+    {
+      "id": "lake-legends-launch2",
+      "path": "news/lake-legends-launch2.json",
+      "priority": 2
     }
   ]
 }
