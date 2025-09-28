@@ -19,6 +19,7 @@
   "imageUrl": "",
   "videoUrl": "https://www.youtube.com/shorts/qPLpnJdh-kE",
   "date": "2025-09-01",
+  "isShortVideo": true,
   "socials": {
     "twitter": "https://x.com/BridgeGamesDev",
     "bsky": "https://bsky.app/profile/bridgegamesstudio.bsky.social",
