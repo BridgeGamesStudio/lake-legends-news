@@ -1,11 +1,11 @@
 {
   "id": "lake-legends-launch",
   "title": {
-    "defaultText": "Welcome to Lake Legends: The Ultimate Fishing Adventure!",
+    "defaultText": "Welcome to Lake Legends!",
     "localizations": [
-      { "languageCode": "es", "text": "¡Bienvenido a Lake Legends: La aventura de pesca definitiva!" },
-      { "languageCode": "pt", "text": "Bem-vindo ao Lake Legends: A aventura de pesca definitiva!" },
-      { "languageCode": "sv", "text": "Välkommen till Lake Legends: Det ultimata fiskeäventyret!" }
+      { "languageCode": "es", "text": "¡Bienvenido a Lake Legends!" },
+      { "languageCode": "pt", "text": "Bem-vindo ao Lake Legends!" },
+      { "languageCode": "sv", "text": "Välkommen till Lake Legends!" }
     ]
   },
   "description": {
