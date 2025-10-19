@@ -1,11 +1,5 @@
 {
   "version": "1.0",
   "lastUpdated": "2025-09-01T08:30:00Z",
-  "news": [
-    {
-      "id": "lake-legends-launch2",
-      "path": "news/lake-legends-launch2.json",
-      "priority": 1
-    }
-  ]
+  "news": []
 }
