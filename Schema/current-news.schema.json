@@ -1,0 +1,40 @@
+﻿{
+  "type": "object",
+  "properties": {
+    "version": {
+      "type": "string"
+    },
+    "lastUpdated": {
+      "type": "string"
+    },
+    "news": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "path": {
+              "type": "string"
+            },
+            "priority": {
+              "type": "integer"
+            }
+          },
+          "required": [
+            "id",
+            "path",
+            "priority"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "version",
+    "lastUpdated",
+    "news"
+  ]
+}

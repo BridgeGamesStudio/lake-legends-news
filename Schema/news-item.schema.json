@@ -1,0 +1,189 @@
+﻿{
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "object",
+      "properties": {
+        "defaultText": {
+          "type": "string"
+        },
+        "localizations": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "languageCode": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "languageCode",
+                "text"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "languageCode": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "languageCode",
+                "text"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "languageCode": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "languageCode",
+                "text"
+              ]
+            }
+          ]
+        }
+      },
+      "required": [
+        "defaultText",
+        "localizations"
+      ]
+    },
+    "description": {
+      "type": "object",
+      "properties": {
+        "defaultText": {
+          "type": "string"
+        },
+        "localizations": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "languageCode": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "languageCode",
+                "text"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "languageCode": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "languageCode",
+                "text"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "languageCode": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "languageCode",
+                "text"
+              ]
+            }
+          ]
+        }
+      },
+      "required": [
+        "defaultText",
+        "localizations"
+      ]
+    },
+    "imageUrl": {
+      "type": "string"
+    },
+    "videoUrl": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    },
+    "isShortVideo": {
+      "type": "boolean"
+    },
+    "socials": {
+      "type": "object",
+      "properties": {
+        "twitter": {
+          "type": "string"
+        },
+        "bsky": {
+          "type": "string"
+        },
+        "instagram": {
+          "type": "string"
+        },
+        "discord": {
+          "type": "string"
+        },
+        "website": {
+          "type": "string"
+        },
+        "tiktok": {
+          "type": "string"
+        },
+        "youtube": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "twitter",
+        "bsky",
+        "instagram",
+        "discord",
+        "website",
+        "tiktok",
+        "youtube"
+      ]
+    }
+  },
+  "required": [
+    "id",
+    "title",
+    "description",
+    "imageUrl",
+    "videoUrl",
+    "date",
+    "isShortVideo",
+    "socials"
+  ]
+}
