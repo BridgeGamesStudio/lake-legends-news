@@ -1,0 +1,41 @@
+{
+  "id": "lake-legends-halloween",
+  "title": {
+    "defaultText": "First-Ever Event: The Halloween Summoning Begins!",
+    "localizations": [
+      { "languageCode": "es", "text": "¡Primer Evento: ¡Comienza la Invocación de Halloween!" },
+      { "languageCode": "pt", "text": "Primeiro Evento de Todos os Tempos: A Invocação de Halloween Começa!" },
+      { "languageCode": "sv", "text": "Första Evenemanget Någonsin: Halloween-Besväringen Börjar!" }
+    ]
+  },
+  "description": {
+    "defaultText": "This Halloween, something ancient stirs beneath the lakes...\n\nCollect fish scales from across Lake Legends and bring them to <b>Elder Mistress Thalira</b> at the Cauldron.\nShe will use her magic to summon the <b>Ancient Ones</b> — creatures of immense power, born from the war between gods and demons.\n\nSome were <b>created by demons to corrupt the ecosystem</b>,\nothers were <b>chosen by the gods to defend it</b>.\n\nThese Ancient Fish are the rarest and most powerful beings in the lakes.\nThey will fight to escape — and few anglers can withstand their might.\n\nFor this event, only <b>Halloween Ancients</b> can be summoned.\nNew Ancients from other lakes will be revealed in future updates...\n\nDare to cast your line — and summon the Ancient Ones.",
+    "localizations": [
+      {
+        "languageCode": "es",
+        "text": "Este Halloween, algo ancestral se agita bajo los lagos...\n\nRecoge escamas de peces de todo Lake Legends y llévalas a la <b>Anciana Maestra Thalira</b> en el Caldero.\nElla usará su magia para invocar a los <b>Ancestrales</b> — criaturas de inmenso poder, nacidas de la guerra entre dioses y demonios.\n\nAlgunos fueron <b>creados por demonios para corromper el ecosistema</b>,\notros fueron <b>elegidos por los dioses para defenderlo</b>.\n\nEstos Peces Ancestrales son los seres más raros y poderosos de los lagos.\nLucharán para escapar — y pocos pescadores pueden resistir su poder.\n\nPara este evento, solo se pueden invocar <b>Ancestrales de Halloween</b>.\nNuevos Ancestrales de otros lagos se revelarán en futuras actualizaciones...\n\nAtrévete a lanzar tu caña — e invoca a los Ancestrales."
+      },
+      {
+        "languageCode": "pt",
+        "text": "Neste Halloween, algo ancestral se agita sob os lagos...\n\nColete escamas de peixes de todo o Lake Legends e leve-as para a <b>Anciã Mestra Thalira</b> no Caldeirão.\nEla usará sua magia para invocar os <b>Ancestrais</b> — criaturas de imenso poder, nascidas da guerra entre deuses e demônios.\n\nAlguns foram <b>criados por demônios para corromper o ecossistema</b>,\noutros foram <b>escolhidos pelos deuses para defendê-lo</b>.\n\nEstes Peixes Ancestrais são os seres mais raros e poderosos dos lagos.\nEles lutarão para escapar — e poucos pescadores conseguem resistir ao seu poder.\n\nPara este evento, apenas <b>Ancestrais de Halloween</b> podem ser invocados.\nNovos Ancestrais de outros lagos serão revelados em futuras atualizações...\n\nOuse lançar sua linha — e invoque os Ancestrais."
+      },
+      {
+        "languageCode": "sv",
+        "text": "Denna Halloween rör sig något uråldigt under sjöarna...\n\nSamla fiskfjäll från hela Lake Legends och ta med dem till <b>Äldste Härskarinnan Thalira</b> vid Kitteln.\nHon kommer att använda sin magi för att frammana de <b>Uråldriga</b> — varelser av enorm kraft, födda ur kriget mellan gudar och demoner.\n\nEn del <b>skapades av demoner för att korrumpera ekosystemet</b>,\nandra <b>valdes av gudarna för att försvara det</b>.\n\nDessa Uråldriga Fiskar är de sällsynaste och mäktigaste varelserna i sjöarna.\nDe kommer att kämpa för att fly — och få metare kan motstå deras kraft.\n\nFör detta evenemang kan endast <b>Halloween-Uråldriga</b> framkallas.\nNya Uråldriga från andra sjöar kommer att avslöjas i framtida uppdateringar...\n\nVåga kasta ut ditt rev — och frammana de Uråldriga."
+      }
+    ]
+  },
+  "imageUrl": "https://bridgegamesstudio.github.io/lake-legends-news/news/images/lake-legends-halloween.png",
+  "videoUrl": "",
+  "date": "2025-10-27",
+  "isShortVideo": true,
+  "socials": {
+    "twitter": "https://x.com/BridgeGamesDev",
+    "bsky": "https://bsky.app/profile/bridgegamesstudio.bsky.social",
+    "instagram": "https://www.instagram.com/bridgegamesstudio_official/",
+    "discord": "https://discord.gg/yXDmATPzA4",
+    "website": "https://bridgegamesstudio.com",
+    "tiktok": "https://www.tiktok.com/@bridgegamesstudio",
+    "youtube": "https://www.youtube.com/@BridgeGamesStudio"
+  }
+}
