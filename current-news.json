@@ -1,5 +1,11 @@
 {
   "version": "1.0",
-  "lastUpdated": "2025-09-01T08:30:00Z",
-  "news": []
+  "lastUpdated": "2025-10-27T17:07:15Z",
+  "news": [
+    {
+      "id": "lake-legends-halloween",
+      "path": "news/lake-legends-halloween.json",
+      "priority": 1
+    }
+  ]
 }
