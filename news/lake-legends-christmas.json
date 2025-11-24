@@ -9,19 +9,19 @@
     ]
   },
   "description": {
-    "defaultText": "The Halloween Ancients have vanished, but rumours tell of <b>Christmas Ancient Ones</b> stirring in every lake.\nCatch any fish to earn <b>Fish Scales</b>. When you've saved enough, visit <b>Eldermistress Thalira's Cauldron</b> to perform the ritual and <b>summon a Christmas Ancient of your choice</b>.\n<b>Ancient Fish ignore gear stats</b>—only skill counts. This is your hardest challenge yet. Stockpile scales and begin the summons.",
+    "defaultText": "The Halloween Ancients have vanished, but rumours tell of <b>Christmas Ancient Ones</b> stirring in every lake.\nCatch any fish to earn <b>Fish Scales</b>. When you've saved enough, visit <b>Eldermistress Thalira's Cauldron</b> to perform the ritual and <b>summon a Christmas Ancient of your choice</b>.\n\n<b>Ancient Fish ignore gear stats</b>—only skill counts. This is your hardest challenge yet. Stockpile scales and begin the summons.",
     "localizations": [
       {
         "languageCode": "es",
-        "text": "Los Antiguos de Halloween han desaparecido, pero los rumores hablan de <b>Antiguos de Navidad</b> agitándose en cada lago.\nCaptura cualquier pez para conseguir <b>Escamas de Pez</b>. Cuando hayas ahorrado las suficientes, visita el <b>Caldero de la Maestra Ancestral Thalira</b> para realizar el ritual e <b>invocar a un Antiguo de Navidad a tu elección</b>.\nLos <b>Peces Antiguos ignoran las estadísticas de tu equipo</b>: solo cuenta tu habilidad. Este es tu desafío más difícil hasta ahora. Acumula escamas y comienza la invocación."
+        "text": "Los Antiguos de Halloween han desaparecido, pero los rumores hablan de <b>Antiguos de Navidad</b> agitándose en cada lago.\nCaptura cualquier pez para conseguir <b>Escamas de Pez</b>. Cuando hayas ahorrado las suficientes, visita el <b>Caldero de la Maestra Ancestral Thalira</b> para realizar el ritual e <b>invocar a un Antiguo de Navidad a tu elección</b>.\n\nLos <b>Peces Antiguos ignoran las estadísticas de tu equipo</b>: solo cuenta tu habilidad. Este es tu desafío más difícil hasta ahora. Acumula escamas y comienza la invocación."
       },
       {
         "languageCode": "pt",
-        "text": "Os Antigos de Halloween desapareceram, mas correm rumores de que <b>Antigos de Natal</b> estão a despertar em cada lago.\nApanha qualquer peixe para ganhar <b>Escamas de Peixe</b>. Quando tiveres guardado o suficiente, visita o <b>Caldeirão da Mestre Anciã Thalira</b> para realizar o ritual e <b>invocar um Antigo de Natal à tua escolha</b>.\nOs <b>Peixes Antigos ignoram os atributos do teu equipamento</b> — só a tua perícia conta. Este é o teu desafio mais difícil até agora. Acumula escamas e começa as invocações."
+        "text": "Os Antigos de Halloween desapareceram, mas correm rumores de que <b>Antigos de Natal</b> estão a despertar em cada lago.\nApanha qualquer peixe para ganhar <b>Escamas de Peixe</b>. Quando tiveres guardado o suficiente, visita o <b>Caldeirão da Mestre Anciã Thalira</b> para realizar o ritual e <b>invocar um Antigo de Natal à tua escolha</b>.\n\nOs <b>Peixes Antigos ignoram os atributos do teu equipamento</b> — só a tua perícia conta. Este é o teu desafio mais difícil até agora. Acumula escamas e começa as invocações."
       },
       {
         "languageCode": "sv",
-        "text": "Halloween-Uråldriga har försvunnit, men rykten säger att <b>Julens Uråldriga</b> rör sig i varje sjö.\nFånga vilken fisk som helst för att få <b>Fiskfjäll</b>. När du har sparat ihop tillräckligt, besök <b>Äldermästarinnan Thaliras kittel</b> för att utföra ritualen och <b>kalla fram en av Julens Uråldriga efter eget val</b>.\n<b>Uråldriga fiskar struntar i dina utrustningsvärden</b> – bara din skicklighet räknas. Det här är din tuffaste utmaning hittills. Hamstra fjäll och börja sammankallningen."
+        "text": "Halloween-Uråldriga har försvunnit, men rykten säger att <b>Julens Uråldriga</b> rör sig i varje sjö.\nFånga vilken fisk som helst för att få <b>Fiskfjäll</b>. När du har sparat ihop tillräckligt, besök <b>Äldermästarinnan Thaliras kittel</b> för att utföra ritualen och <b>kalla fram en av Julens Uråldriga efter eget val</b>.\n\n<b>Uråldriga fiskar struntar i dina utrustningsvärden</b> – bara din skicklighet räknas. Det här är din tuffaste utmaning hittills. Hamstra fjäll och börja sammankallningen."
       }
     ]
   },
