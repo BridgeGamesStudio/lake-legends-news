@@ -3,25 +3,25 @@
   "title": {
     "defaultText": "The Halloween Summoning Begins!",
     "localizations": [
-      { "languageCode": "es", "text": "¡Comienza la Invocación de Halloween!" },
-      { "languageCode": "pt", "text": "A Invocação de Halloween Começa!" },
-      { "languageCode": "sv", "text": "Halloween-Besväringen Börjar!" }
+      { "languageCode": "es", "text": "Â¡Comienza la InvocaciÃ³n de Halloween!" },
+      { "languageCode": "pt", "text": "A InvocaÃ§Ã£o de Halloween ComeÃ§a!" },
+      { "languageCode": "sv", "text": "Halloween-BesvÃ¤ringen BÃ¶rjar!" }
     ]
   },
   "description": {
-    "defaultText": "<size=24px>This Halloween, something ancient stirs beneath the lakes…\n\nCollect fish scales from all across the world of Lake Legends.\nBring them to <b>Elder Mistress Thalira</b> at the Cauldron.\nShe'll cast a powerful ritual to summon the <b>Ancient Ones</b> — champions of gods… or demons.\n\nThese are the hardest fish to catch yet. You might not land them on your first try.\nBut those who do? Earn glory, power — and a place in Lake Legends history.\n\nStart with the <b>Halloween Ancients</b>, available for a limited time!\nMore ancients tied to other lakes will awaken soon…",
+    "defaultText": "<size=24px>This Halloween, something ancient stirs beneath the lakesâ€¦\n\nCollect fish scales from all across the world of Lake Legends.\nBring them to <b>Elder Mistress Thalira</b> at the Cauldron.\nShe'll cast a powerful ritual to summon the <b>Ancient Ones</b> â€” champions of godsâ€¦ or demons.\n\nThese are the hardest fish to catch yet. You might not land them on your first try.\nBut those who do? Earn glory, power â€” and a place in Lake Legends history.\n\nStart with the <b>Halloween Ancients</b>, available for a limited time!\nMore ancients tied to other lakes will awaken soonâ€¦",
     "localizations": [
       {
         "languageCode": "es",
-        "text": "<size=22px>Este Halloween, algo ancestral se agita bajo los lagos…\n\nRecolecta escamas de peces de todo el mundo de Lake Legends.\nLlévalas a la <b>Anciana Maestra Thalira</b> en el Caldero.\nElla realizará un poderoso ritual para invocar a los <b>Ancestrales</b> — campeones de dioses… o demonios.\n\nEstos son los peces más difíciles de atrapar hasta ahora. Puede que no los captures en tu primer intento.\nPero, ¿aquellos que lo logran? Ganan gloria, poder — y un lugar en la historia de Lake Legends.\n\n¡Comienza con los <b>Ancestrales de Halloween</b>, disponibles por tiempo limitado!\nMás ancestrales vinculados a otros lagos despertarán pronto…"
+        "text": "<size=22px>Este Halloween, algo ancestral se agita bajo los lagosâ€¦\n\nRecolecta escamas de peces de todo el mundo de Lake Legends.\nLlÃ©valas a la <b>Anciana Maestra Thalira</b> en el Caldero.\nElla realizarÃ¡ un poderoso ritual para invocar a los <b>Ancestrales</b> â€” campeones de diosesâ€¦ o demonios.\n\nEstos son los peces mÃ¡s difÃ­ciles de atrapar hasta ahora. Puede que no los captures en tu primer intento.\nPero, Â¿aquellos que lo logran? Ganan gloria, poder â€” y un lugar en la historia de Lake Legends.\n\nÂ¡Comienza con los <b>Ancestrales de Halloween</b>, disponibles por tiempo limitado!\nMÃ¡s ancestrales vinculados a otros lagos despertarÃ¡n prontoâ€¦"
       },
       {
         "languageCode": "pt",
-        "text": "<size=22px>Neste Halloween, algo ancestral se agita sob os lagos…\n\nColete escamas de peixes de todo o mundo de Lake Legends.\nLeve-as para a <b>Anciã Mestra Thalira</b> no Caldeirão.\nEla lançará um ritual poderoso para invocar os <b>Ancestrais</b> — campeões dos deuses… ou demônios.\n\nEstes são os peixes mais difíceis de capturar até agora. Você pode não pegá-los na primeira tentativa.\nMas aqueles que conseguem? Ganham glória, poder — e um lugar na história de Lake Legends.\n\nComece com os <b>Ancestrais de Halloween</b>, disponíveis por tempo limitado!\nMais ancestrais ligados a outros lagos despertarão em breve…"
+        "text": "<size=22px>Neste Halloween, algo ancestral se agita sob os lagosâ€¦\n\nColete escamas de peixes de todo o mundo de Lake Legends.\nLeve-as para a <b>AnciÃ£ Mestra Thalira</b> no CaldeirÃ£o.\nEla lanÃ§arÃ¡ um ritual poderoso para invocar os <b>Ancestrais</b> â€” campeÃµes dos deusesâ€¦ ou demÃ´nios.\n\nEstes sÃ£o os peixes mais difÃ­ceis de capturar atÃ© agora. VocÃª pode nÃ£o pegÃ¡-los na primeira tentativa.\nMas aqueles que conseguem? Ganham glÃ³ria, poder â€” e um lugar na histÃ³ria de Lake Legends.\n\nComece com os <b>Ancestrais de Halloween</b>, disponÃ­veis por tempo limitado!\nMais ancestrais ligados a outros lagos despertarÃ£o em breveâ€¦"
       },
       {
         "languageCode": "sv",
-        "text": "<size=23px>Denna Halloween rör sig något uråldigt under sjöarna…\n\nSamla fiskfjäll från hela Lake Legends-världen.\nFör dem till <b>Äldste Härskarinnan Thalira</b> vid Kitteln.\nHon kommer att utföra en kraftfull ritual för att frammana de <b>Uråldriga</b> — gudarnas... eller demonernas förkämpar.\n\nDessa är de svåraste fiskarna att fånga hittills. Du kanske inte landar dem på första försöket.\nMen de som lyckas? Vinner ära, kraft — och en plats i Lake Legends historia.\n\nBörja med <b>Halloween-Uråldriga</b>, tillgängliga under begränsad tid!\nFler uråldriga kopplade till andra sjöar kommer att vakna snart…"
+        "text": "<size=23px>Denna Halloween rÃ¶r sig nÃ¥got urÃ¥ldigt under sjÃ¶arnaâ€¦\n\nSamla fiskfjÃ¤ll frÃ¥n hela Lake Legends-vÃ¤rlden.\nFÃ¶r dem till <b>Ã„ldste HÃ¤rskarinnan Thalira</b> vid Kitteln.\nHon kommer att utfÃ¶ra en kraftfull ritual fÃ¶r att frammana de <b>UrÃ¥ldriga</b> â€” gudarnas... eller demonernas fÃ¶rkÃ¤mpar.\n\nDessa Ã¤r de svÃ¥raste fiskarna att fÃ¥nga hittills. Du kanske inte landar dem pÃ¥ fÃ¶rsta fÃ¶rsÃ¶ket.\nMen de som lyckas? Vinner Ã¤ra, kraft â€” och en plats i Lake Legends historia.\n\nBÃ¶rja med <b>Halloween-UrÃ¥ldriga</b>, tillgÃ¤ngliga under begrÃ¤nsad tid!\nFler urÃ¥ldriga kopplade till andra sjÃ¶ar kommer att vakna snartâ€¦"
       }
     ]
   },

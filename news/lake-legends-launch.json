@@ -3,17 +3,17 @@
   "title": {
     "defaultText": "Welcome to Lake Legends!",
     "localizations": [
-      { "languageCode": "es", "text": "¡Bienvenido a Lake Legends!" },
+      { "languageCode": "es", "text": "Â¡Bienvenido a Lake Legends!" },
       { "languageCode": "pt", "text": "Bem-vindo ao Lake Legends!" },
-      { "languageCode": "sv", "text": "Välkommen till Lake Legends!" }
+      { "languageCode": "sv", "text": "VÃ¤lkommen till Lake Legends!" }
     ]
   },
   "description": {
     "defaultText": "Embark on an epic fishing journey across breathtaking lakes, master your skills, and become a true Legend of the Lake!",
     "localizations": [
-      { "languageCode": "es", "text": "¡Embárcate en un épico viaje de pesca a través de lagos impresionantes, domina tus habilidades y conviértete en una verdadera Leyenda del Lago!" },
-      { "languageCode": "pt", "text": "Embarque em uma jornada épica de pesca por lagos deslumbrantes, domine suas habilidades e torne-se uma verdadeira Lenda do Lago!" },
-      { "languageCode": "sv", "text": "Ge dig ut på en episk fiskeresa över fantastiska sjöar, bemästra dina färdigheter och bli en sann Sjölegend!" }
+      { "languageCode": "es", "text": "Â¡EmbÃ¡rcate en un Ã©pico viaje de pesca a travÃ©s de lagos impresionantes, domina tus habilidades y conviÃ©rtete en una verdadera Leyenda del Lago!" },
+      { "languageCode": "pt", "text": "Embarque em uma jornada Ã©pica de pesca por lagos deslumbrantes, domine suas habilidades e torne-se uma verdadeira Lenda do Lago!" },
+      { "languageCode": "sv", "text": "Ge dig ut pÃ¥ en episk fiskeresa Ã¶ver fantastiska sjÃ¶ar, bemÃ¤stra dina fÃ¤rdigheter och bli en sann SjÃ¶legend!" }
     ]
   },
   "imageUrl": "",
